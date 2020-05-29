@@ -99,7 +99,6 @@
     <None Include="Resources\bodyleft.png" />
     <None Include="Resources\bodyright.png" />
     <None Include="Resources\bodyup.png" />
-    <Content Include="Resources\sound.wav" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
